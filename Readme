@@ -1,1 +1,4 @@
-GG
+Diffusion Model to Generate Faces
+
+I have trained a diffusion model from scratch(from random weights) to generate faces resembling works of art.
+I have used diffusers library from Huggingface to train this model. The model checkpoints can be saved in the huggingface repo.
